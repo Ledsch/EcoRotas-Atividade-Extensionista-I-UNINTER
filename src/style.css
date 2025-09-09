@@ -187,6 +187,13 @@ body {
   margin: 0 0 1rem;
 }
 
+.reciclado{
+  display: flex;
+  margin: auto;
+  padding: auto;
+
+}
+
 .cards {
   display: grid;
   gap: 1rem;

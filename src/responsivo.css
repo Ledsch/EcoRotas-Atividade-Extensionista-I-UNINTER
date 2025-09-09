@@ -28,4 +28,15 @@
   .cards {
     grid-template-columns: 1fr;
   }
+
+  .reciclado{
+  display: flex;
+  height: 200px;
+  }
+
+  iframe{
+    height: 350px;
+    width: 450px;
+  }
+
 }
